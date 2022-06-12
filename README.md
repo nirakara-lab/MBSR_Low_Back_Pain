@@ -8,5 +8,4 @@ Gustavo G. Diez^1,¶*, Eduardo Anitua2,3¶*, Nazareth Castellanos1, Carmelo Váz
 3BTI Biotechnology Institute,Vitoria, Spain
 4School of Psychology, Complutense University of Madrid, Madrid, Spain.
 5Faculty of Medicine, University of Salamanca, Salamanca, Spain
-![image](https://user-images.githubusercontent.com/30870416/173238318-b86d1811-4556-415b-a780-4ad6f12178d7.png)
 
